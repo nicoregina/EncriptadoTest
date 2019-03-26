@@ -1,0 +1,7 @@
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\bin\Debug\EncriptadoTest.exe.config
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\bin\Debug\EncriptadoTest.exe
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\bin\Debug\EncriptadoTest.pdb
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\obj\Debug\EncriptadoTest.csprojAssemblyReference.cache
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\obj\Debug\EncriptadoTest.csproj.CoreCompileInputs.cache
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\obj\Debug\EncriptadoTest.exe
+C:\Users\nicolas_regina\source\repos\EncriptadoTest\EncriptadoTest\obj\Debug\EncriptadoTest.pdb
